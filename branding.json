@@ -1,0 +1,937 @@
+{
+  "primaryColor": "#6840AD",
+  "secondaryColor": "#F4F0FA",
+  "backgroundColor": "#FFFFFF",
+  "textColor": "#30233F",
+  "accentColor": "#6840AD",
+  "fontHeading": "Source Sans 3",
+  "fontBody": "Source Sans 3",
+  "borderRadius": "0.25rem",
+  "logoText": "Lista de lectura",
+  "logoImageUrl": null,
+  "tone": "minimal",
+  "brandbook": {
+    "version": 1,
+    "origin": "proposed",
+    "researchStatus": "not_requested",
+    "tokenSemanticsVersion": 1,
+    "positioning": "Herramienta ficticia de ejemplo de Esteban para recordar próximas lecturas y registrar cuáles se han leído, sin complejidad de catálogo y con datos guardados únicamente en el navegador.",
+    "voice": "Español breve, cercano y práctico. Acciones explícitas y mensajes honestos sobre almacenamiento local. Firma «Un ejemplo de Esteban». Sin lenguaje comercial, métricas ni promesas de sincronización.",
+    "motif": "Una línea vertical en el margen izquierdo del registro conecta los marcapáginas de cada libro. El contorno mantiene la identidad de la fila y su relleno distingue el estado, siempre acompañado por «Por leer» o «Leído».",
+    "sources": [
+      "https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap"
+    ],
+    "colors": [
+      {
+        "role": "background",
+        "name": "Calm Lilac",
+        "hex": "#FFFFFF"
+      },
+      {
+        "role": "surface",
+        "name": "Reading Paper",
+        "hex": "#F4F0FA"
+      },
+      {
+        "role": "accent",
+        "name": "Active Violet",
+        "hex": "#6840AD"
+      },
+      {
+        "role": "text",
+        "name": "Plum Ink",
+        "hex": "#30233F"
+      },
+      {
+        "role": "muted",
+        "name": "Quiet Ink",
+        "hex": "#30233F"
+      }
+    ],
+    "fontFaces": [
+      {
+        "family": "Source Sans 3",
+        "weight": "400",
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-B567KX/brand/fonts/20ab9752bd19a373dba627393b6c142e6cf8fc2f219119a8e0cb1442ef679ec5.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ],
+        "originalUrl": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky461EN.ttf",
+        "sha256": "20ab9752bd19a373dba627393b6c142e6cf8fc2f219119a8e0cb1442ef679ec5"
+      },
+      {
+        "family": "Source Sans 3",
+        "weight": "500",
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-B567KX/brand/fonts/bec4ffe926595df756b5a1e39a9f704debfab88055d9a157f978eb500444dd28.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ],
+        "originalUrl": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KyK61EN.ttf",
+        "sha256": "bec4ffe926595df756b5a1e39a9f704debfab88055d9a157f978eb500444dd28"
+      },
+      {
+        "family": "Source Sans 3",
+        "weight": "600",
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-B567KX/brand/fonts/950e66c48e5e60c9407421d0fa601047176f17e0d22a598bbd084dde45a98be2.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ],
+        "originalUrl": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxm7FEN.ttf",
+        "sha256": "950e66c48e5e60c9407421d0fa601047176f17e0d22a598bbd084dde45a98be2"
+      },
+      {
+        "family": "Source Sans 3",
+        "weight": "700",
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-B567KX/brand/fonts/83a72786970a93a8c48eaead886c995676d512c0ee7164138f8ea76ea847d75c.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ],
+        "originalUrl": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxf7FEN.ttf",
+        "sha256": "83a72786970a93a8c48eaead886c995676d512c0ee7164138f8ea76ea847d75c"
+      }
+    ],
+    "markSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 160\"><rect x=\"0\" y=\"0\" width=\"160\" height=\"160\" fill=\"#F4F0FA\"/><path d=\"M48 20H112V140L80 116L48 140Z\" fill=\"#6840AD\"/></svg>",
+    "pages": [
+      {
+        "title": "Brand guidelines",
+        "summary": "Herramienta ficticia de ejemplo de Esteban para recordar próximas lecturas y registrar cuáles se han leído, sin complejidad de catálogo y con datos guardados únicamente en el navegador.",
+        "examples": [
+          {
+            "title": "Lista de lectura",
+            "text": "Un ejemplo de Esteban"
+          },
+          {
+            "title": "Cover composition",
+            "text": "Use a left-aligned title block. Keep the lilac support surface behind the violet bookmark so its complete silhouette remains visible."
+          }
+        ],
+        "id": "brand-page-1",
+        "layout": "cover"
+      },
+      {
+        "title": "The Brand",
+        "summary": "Introduce the identity with one compact statement on violet. The bookmark and bibliographic rhythm should suggest a useful reading record, not a bookstore.",
+        "examples": [
+          {
+            "title": "A reading record",
+            "text": "Lista de lectura helps distinguish what is still to read from what has been read."
+          },
+          {
+            "title": "Section composition",
+            "text": "Use white text on #6840AD and one supported bookmark. Avoid book covers, product imagery and catalog-style grids."
+          }
+        ],
+        "id": "brand-page-2",
+        "layout": "divider"
+      },
+      {
+        "title": "Welcome",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "title": "Identity scope",
+            "text": "Preserve the supplied name, Spanish signature, palette and Source Sans 3. The geometrical bookmark is an original proposal for this project."
+          },
+          {
+            "title": "Product boundary",
+            "text": "Design one Spanish screen for adding books, changing reading status and filtering. Describe browser-only storage without implying accounts or synchronization."
+          }
+        ],
+        "id": "brand-page-3",
+        "layout": "content"
+      },
+      {
+        "title": "Index",
+        "summary": "Organize the guide into five sections. Use aligned page numbers and plum text rather than decorative chapter cards.",
+        "examples": [
+          {
+            "title": "Identity and logo",
+            "text": "02–08 Brand definition and voice · 09–15 Logo system"
+          },
+          {
+            "title": "Visual language",
+            "text": "16–22 Typography and layout · 23–29 Color, graphics and image direction"
+          },
+          {
+            "title": "Applications",
+            "text": "30–49 Digital and physical design studies, assistance and colophon"
+          }
+        ],
+        "id": "brand-page-4",
+        "layout": "content"
+      },
+      {
+        "title": "Defining",
+        "summary": "Make the continuous bibliographic record the organizing idea. Each full title, author, state and action belongs to one row rather than separate cards or columns.",
+        "examples": [
+          {
+            "title": "Record specimen",
+            "text": "Don Quijote de la Mancha · Miguel de Cervantes · Por leer · Marcar como leído"
+          },
+          {
+            "title": "Keep the record intact",
+            "text": "Use a white list with a connecting left rule. Do not split Por leer and Leídos into separate board columns."
+          }
+        ],
+        "id": "brand-page-5",
+        "layout": "content"
+      },
+      {
+        "title": "Vision & Mission",
+        "summary": "Treat these as project aims, not corporate declarations: make the next reading easy to remember and the current state easy to recognize.",
+        "examples": [
+          {
+            "title": "Purpose copy",
+            "text": "Guarda tu próxima lectura."
+          },
+          {
+            "title": "Expression rule",
+            "text": "Lead with the record and its actions. Do not add aspirational claims about reading more, personal growth or a future service."
+          }
+        ],
+        "id": "brand-page-6",
+        "layout": "content"
+      },
+      {
+        "title": "Brand Values",
+        "summary": "Express the proposed design principles through visible choices: clarity in labels, continuity in rows and honesty in storage messages.",
+        "examples": [
+          {
+            "title": "Clarity and continuity",
+            "text": "Write Marcar como leído beside its book. Keep the same row when the state changes instead of presenting a separate receipt screen."
+          },
+          {
+            "title": "Honesty",
+            "text": "Use Libro guardado en este navegador only after persistence is confirmed. Never replace it with Guardado para siempre."
+          }
+        ],
+        "id": "brand-page-7",
+        "layout": "content"
+      },
+      {
+        "title": "Tone of Voice",
+        "summary": "Write short, practical Spanish. Name the action and its result; avoid commercial language, exaggerated celebration and vague recovery messages.",
+        "examples": [
+          {
+            "title": "Direct actions",
+            "text": "Guardar libro · Marcar como leído · Volver a por leer"
+          },
+          {
+            "title": "Useful recovery",
+            "text": "No se pudo confirmar el guardado. Tus campos se conservan. Reintentar."
+          },
+          {
+            "title": "Exact signature",
+            "text": "Un ejemplo de Esteban"
+          }
+        ],
+        "id": "brand-page-8",
+        "layout": "content"
+      },
+      {
+        "title": "Logo",
+        "summary": "Open the logo section on lilac. Show the bookmark and typeset name as two distinct elements, never as lettering embedded in the SVG.",
+        "examples": [
+          {
+            "title": "Identity lockup",
+            "text": "Lista de lectura"
+          },
+          {
+            "title": "Section treatment",
+            "text": "Place the violet bookmark to the left of plum type. Keep this page quiet enough to reveal the triangular notch."
+          }
+        ],
+        "id": "brand-page-9",
+        "layout": "divider"
+      },
+      {
+        "title": "Logo overview",
+        "summary": "The logo combines a vertical bookmark with the exact name in Source Sans 3 Bold. Its square lilac support provides a consistent background across applications.",
+        "examples": [
+          {
+            "title": "Canonical geometry",
+            "text": "The 160 × 160 symbol contains a bookmark from x48 to x112 and y20 to y140, with its inward notch meeting at x80, y116."
+          },
+          {
+            "title": "Naming rule",
+            "text": "Always typeset Lista de lectura separately. Do not abbreviate it to initials or incorporate Esteban into the symbol."
+          }
+        ],
+        "id": "brand-page-10",
+        "layout": "logo"
+      },
+      {
+        "title": "Primary logo",
+        "summary": "In the header, place the supported mark left of a compact text block. Use the exact name at 700 and the signature below at 400.",
+        "examples": [
+          {
+            "title": "Header specimen",
+            "text": "Lista de lectura\nUn ejemplo de Esteban"
+          },
+          {
+            "title": "Lockup dimensions",
+            "text": "Use a 48 px symbol canvas and a 12 px text gap on desktop; use a 40 px canvas and an 8 px gap on mobile."
+          }
+        ],
+        "id": "brand-page-11",
+        "layout": "logo"
+      },
+      {
+        "title": "Logo Safezone",
+        "summary": "Reserve clear space around the complete lockup equal to one quarter of the symbol canvas. Keep this external space distinct from the internal mark-to-name gap.",
+        "examples": [
+          {
+            "title": "Desktop spacing",
+            "text": "A 48 px symbol canvas gives the Lista de lectura lockup 12 px of clear space from neighboring rules and controls."
+          },
+          {
+            "title": "Mobile spacing",
+            "text": "A 40 px symbol canvas requires 10 px of clear space. The page still retains its separate 16 px outer margin."
+          }
+        ],
+        "id": "brand-page-12",
+        "layout": "logo"
+      },
+      {
+        "title": "Color combinations",
+        "summary": "Keep the canonical violet symbol on its lilac support. Change the separately typeset name for contrast, not the symbol geometry or its internal colors.",
+        "examples": [
+          {
+            "title": "Light application",
+            "text": "On white or lilac, use Lista de lectura in #30233F beside the supported #6840AD bookmark."
+          },
+          {
+            "title": "Dark application",
+            "text": "On #30233F or #6840AD, set the name in white and retain the complete lilac square behind the mark."
+          }
+        ],
+        "id": "brand-page-13",
+        "layout": "colors"
+      },
+      {
+        "title": "Brandmark",
+        "summary": "Use the bookmark alone for compact identity surfaces. Preserve its vertical proportions, centered position and triangular lower notch at every size.",
+        "examples": [
+          {
+            "title": "Standalone use",
+            "text": "Center the canonical symbol on an application icon. Do not add a miniature Lista de lectura wordmark inside it."
+          },
+          {
+            "title": "Record relationship",
+            "text": "Row markers borrow the bookmark silhouette as decorative state graphics. They are not alternate logos."
+          }
+        ],
+        "id": "brand-page-14",
+        "layout": "logo"
+      },
+      {
+        "title": "Logo misuse",
+        "summary": "Do not stretch, rotate, crop or embellish the logo. Avoid treatments that turn the bookmark into a book spine, shopping tag or generic initial badge.",
+        "examples": [
+          {
+            "title": "Do not redraw",
+            "text": "Do not round away the notch, add an L, replace the support with a cover image or introduce gradients and shadows."
+          },
+          {
+            "title": "Do not rewrite",
+            "text": "Keep Lista de lectura exactly. Avoid Lista De Lectura, Esteban Books and any invented slogan beside the mark."
+          }
+        ],
+        "id": "brand-page-15",
+        "layout": "logo"
+      },
+      {
+        "title": "Typography",
+        "summary": "Use Source Sans 3 throughout. Open this section with a large, left-aligned specimen and a smaller practical line rather than a decorative alphabet poster.",
+        "examples": [
+          {
+            "title": "Tu próxima lectura empieza aquí",
+            "text": "Añade un título y, si quieres, su autor."
+          },
+          {
+            "title": "Section hierarchy",
+            "text": "Use 700 for the specimen heading and 400 for its supporting line. Retain the same plum-on-lilac contrast as the interface."
+          }
+        ],
+        "id": "brand-page-16",
+        "layout": "divider"
+      },
+      {
+        "title": "Typography overview",
+        "summary": "One family creates continuity between identity and controls. Distinguish levels through size, weight and spacing, not competing typefaces.",
+        "examples": [
+          {
+            "title": "Lista de lectura",
+            "text": "Título · Autor · Guardar libro"
+          },
+          {
+            "title": "Family discipline",
+            "text": "Use Source Sans 3 for names, books, labels, filters, errors and help. Avoid serif book-title styling and monospaced interface text."
+          }
+        ],
+        "id": "brand-page-17",
+        "layout": "type"
+      },
+      {
+        "title": "Primary typeface",
+        "summary": "Source Sans 3 provides the specified 400, 500, 600 and 700 weights. Serve the chosen font locally through the application rather than browser requests to Google.",
+        "examples": [
+          {
+            "title": "Don Quijote de la Mancha",
+            "text": "Miguel de Cervantes · Por leer"
+          },
+          {
+            "title": "Reading setting",
+            "text": "Set book titles at 20/26 px, weight 600. Set authors at 16/24 px, weight 400, with complete accents and original capitalization."
+          },
+          {
+            "title": "Temporary fallback",
+            "text": "If the font cannot load, use a system sans-serif stack without clipping content. This is a fallback, not a second identity typeface."
+          }
+        ],
+        "id": "brand-page-18",
+        "layout": "type"
+      },
+      {
+        "title": "Typography",
+        "summary": "Use upright styles: 700 for the name and main heading, 600 for books and primary controls, 500 for compact labels, and 400 for body and help.",
+        "examples": [
+          {
+            "title": "Guardar libro",
+            "text": "Título obligatorio. Máximo 200 caracteres."
+          },
+          {
+            "title": "Weight distinction",
+            "text": "Lista de lectura uses 700; Don Quijote de la Mancha uses 600; Título uses 500; its helper line uses 400."
+          },
+          {
+            "title": "Style restraint",
+            "text": "Avoid synthetic bold, italics for entire records and uppercase actions. Preserve a calm, upright bibliographic rhythm."
+          }
+        ],
+        "id": "brand-page-19",
+        "layout": "type"
+      },
+      {
+        "title": "Supporting type",
+        "summary": "Use the same family for help, limitations and errors at 14/20 px. Secondary text remains full-strength plum; size and placement provide the quieter hierarchy.",
+        "examples": [
+          {
+            "title": "Autor",
+            "text": "Opcional. Máximo 160 caracteres."
+          },
+          {
+            "title": "Help placement",
+            "text": "Place the helper directly below its field. An error follows in garnet with explicit wording, never as a faint replacement for the label."
+          }
+        ],
+        "id": "brand-page-20",
+        "layout": "type"
+      },
+      {
+        "title": "Hierarchy",
+        "summary": "Use 36/40 px for the desktop title and 28/32 px on mobile. Books use 20/26 px; body and fields use 16/24 px; help uses 14/20 px.",
+        "examples": [
+          {
+            "title": "Lista de lectura",
+            "text": "Un ejemplo de Esteban"
+          },
+          {
+            "title": "Record hierarchy",
+            "text": "Don Quijote de la Mancha leads the row; Miguel de Cervantes follows; Por leer and Marcar como leído remain subordinate but readable."
+          }
+        ],
+        "id": "brand-page-21",
+        "layout": "type"
+      },
+      {
+        "title": "Layouts",
+        "summary": "Use a 1120 px maximum container at 1440 px, with a 320 px form beside a flexible list. At 768 px, stack form, filters and records in one column.",
+        "examples": [
+          {
+            "title": "Título",
+            "text": "Añade tu próxima lectura. El autor es opcional."
+          },
+          {
+            "title": "390 px composition",
+            "text": "Keep 16 px margins. Budget about 112 px for header and note, 240 px for form and action, and 64 px for spacing and filters."
+          },
+          {
+            "title": "Flow and spacing",
+            "text": "Use 4, 8, 12, 16, 24 and 32 px spacing. Wrap full titles, authors and unbroken strings; put mobile actions below text. Use normal page scrolling."
+          }
+        ],
+        "id": "brand-page-22",
+        "layout": "applications"
+      },
+      {
+        "title": "Colors",
+        "summary": "Build recognition through lilac surroundings, a continuous white register and plum typography. Reserve violet for identity and actionable emphasis.",
+        "examples": [
+          {
+            "title": "Primary pairing",
+            "text": "Set Lista de lectura in #30233F on #F4F0FA. Place the bibliographic register on #FFFFFF."
+          },
+          {
+            "title": "Action emphasis",
+            "text": "Use #6840AD with white text for Guardar libro. Do not give every row or helper a violet background."
+          }
+        ],
+        "id": "brand-page-23",
+        "layout": "divider"
+      },
+      {
+        "title": "Colors overview",
+        "summary": "Keep all supplied hex values exact. Text and muted roles share the same plum; confirmation green and error garnet are additional semantic tokens.",
+        "examples": [
+          {
+            "title": "Structural palette",
+            "text": "Calm Lilac #F4F0FA · Reading Paper #FFFFFF · Active Violet #6840AD · Plum Ink #30233F · Quiet Ink #30233F"
+          },
+          {
+            "title": "Semantic accents",
+            "text": "Confirmation #236448 supports Libro guardado en este navegador. Error #A12643 supports No se pudo confirmar el guardado."
+          },
+          {
+            "title": "Contrast roles",
+            "text": "Keep normal text at least 4.5:1 and essential boundaries and focus at least 3:1. Pair semantic colors with explicit words and symbols."
+          }
+        ],
+        "id": "brand-page-24",
+        "layout": "colors"
+      },
+      {
+        "title": "Using Tints",
+        "summary": "Use the supplied lilac as the light field rather than inventing tint scales. Never reduce text opacity to create secondary hierarchy.",
+        "examples": [
+          {
+            "title": "Quiet information",
+            "text": "Set Opcional. Máximo 160 caracteres. in solid #30233F at 14/20 px, not translucent plum."
+          },
+          {
+            "title": "Interactive states",
+            "text": "Distinguish hover, focus, pressed, disabled and pending with outlines, underlines, symbols and labels rather than pale color alone."
+          }
+        ],
+        "id": "brand-page-25",
+        "layout": "colors"
+      },
+      {
+        "title": "Graphic Elements",
+        "summary": "A left vertical rule connects row bookmarks across the continuous white list. Animate only a confirmed state change: a vertical fill transform lasting 180 ms.",
+        "examples": [
+          {
+            "title": "State motif",
+            "text": "Por leer uses an outlined bookmark; Leído uses a filled bookmark. Keep both labels visible and hide decorative markers from assistive technology."
+          },
+          {
+            "title": "Motion behavior",
+            "text": "Move fill inside a fixed silhouette without shifting text. With reduced motion, show the final state immediately and retain the same focus and announcements."
+          }
+        ],
+        "id": "brand-page-26",
+        "layout": "divider"
+      },
+      {
+        "title": "Icons",
+        "summary": "Use simple geometric icons that share the bookmark's clarity. Pair status and recovery symbols with text; do not introduce unexplained icon-only actions.",
+        "examples": [
+          {
+            "title": "Completed state",
+            "text": "A check symbol accompanies Leído. The action remains visibly labelled Volver a por leer."
+          },
+          {
+            "title": "Recovery state",
+            "text": "An alert symbol accompanies No se pudo confirmar el guardado. Keep Reintentar as the clear, text-labelled recovery action."
+          }
+        ],
+        "id": "brand-page-27",
+        "layout": "content"
+      },
+      {
+        "title": "Photography",
+        "summary": "Do not use photography in this identity's interface. Let typography, the bookmark and the record surface carry the reading theme without fabricated covers.",
+        "examples": [
+          {
+            "title": "Empty register",
+            "text": "Show Tu próxima lectura empieza aquí inside the recognizable list surface, without a stock image of books."
+          },
+          {
+            "title": "Content-led expression",
+            "text": "Use a complete title and author as the visual specimen. Avoid cropped pages, simulated spines and repeated cover cards."
+          }
+        ],
+        "id": "brand-page-28",
+        "layout": "applications"
+      },
+      {
+        "title": "Moodboard",
+        "summary": "Build the visual reference board from bibliographic alignment, paper-like surfaces and bookmark geometry. Keep the selected register direction distinct from shelves and status boards.",
+        "examples": [
+          {
+            "title": "Reference strip",
+            "text": "Combine a lilac field, white register, plum title, violet bookmark and a thin connecting rule."
+          },
+          {
+            "title": "Chosen rhythm",
+            "text": "Show Don Quijote de la Mancha wrapping naturally above its author and action. Do not arrange records as covers or separated status columns."
+          }
+        ],
+        "id": "brand-page-29",
+        "layout": "applications"
+      },
+      {
+        "title": "Applications",
+        "summary": "All following applications are design studies. Carry the same compact lockup, left alignment and honest Spanish copy across surfaces without implying extra product features.",
+        "examples": [
+          {
+            "title": "Lista de lectura",
+            "text": "Un ejemplo de Esteban"
+          },
+          {
+            "title": "Shared composition",
+            "text": "Use one dominant reading line, one supporting line and restrained violet emphasis. Physical pieces do not imply commerce, membership or new routes."
+          }
+        ],
+        "id": "brand-page-30",
+        "layout": "divider"
+      },
+      {
+        "title": "Social media icons",
+        "summary": "Design study: use only the canonical supported bookmark as an avatar. Keep the square asset intact and comfortably inside any circular display crop.",
+        "examples": [
+          {
+            "title": "Lista de lectura",
+            "text": "Un ejemplo de Esteban"
+          },
+          {
+            "title": "Avatar rule",
+            "text": "Center the 160 × 160 geometry on lilac. Keep names and signatures in adjacent profile text rather than shrinking them into the avatar."
+          }
+        ],
+        "id": "brand-page-31",
+        "layout": "logo"
+      },
+      {
+        "title": "Social media profiles",
+        "summary": "Design study: pair the bookmark avatar with the exact display name and a brief factual description. Do not invent handles, audience counts or active social accounts.",
+        "examples": [
+          {
+            "title": "Lista de lectura",
+            "text": "Un ejemplo de Esteban. App ficticia para guardar próximas lecturas y marcar libros como leídos. Datos solo en el navegador."
+          },
+          {
+            "title": "Profile composition",
+            "text": "Use plum text and a lilac header field. Avoid promotional banners, ratings and claims that books follow the reader between devices."
+          }
+        ],
+        "id": "brand-page-32",
+        "layout": "applications"
+      },
+      {
+        "title": "Instagram posts",
+        "summary": "Design study: use a single typographic reading record on white within a lilac frame. Keep the title dominant and avoid simulated screenshots of unbuilt functionality.",
+        "examples": [
+          {
+            "title": "Una lectura por recordar",
+            "text": "Don Quijote de la Mancha · Miguel de Cervantes · Por leer"
+          },
+          {
+            "title": "Post structure",
+            "text": "Place the supported mark and Lista de lectura in a compact footer. Use no invented engagement counts, review scores or book-cover artwork."
+          }
+        ],
+        "id": "brand-page-33",
+        "layout": "applications"
+      },
+      {
+        "title": "Posters",
+        "summary": "Design study: enlarge the bibliographic rhythm, not the interface chrome. Use one headline, a short explanatory line and the supported identity lockup.",
+        "examples": [
+          {
+            "title": "Tu próxima lectura empieza aquí",
+            "text": "Lista de lectura · Un ejemplo de Esteban"
+          },
+          {
+            "title": "Poster hierarchy",
+            "text": "Set the headline in 700 on lilac. Use a white vertical record panel and one violet bookmark; omit QR codes and invented destinations."
+          }
+        ],
+        "id": "brand-page-34",
+        "layout": "applications"
+      },
+      {
+        "title": "T shirts and totes",
+        "summary": "Design study: use a restrained identity print rather than merchandise messaging. Keep the full supported symbol and a separately typeset name.",
+        "examples": [
+          {
+            "title": "Lista de lectura",
+            "text": "Un ejemplo de Esteban"
+          },
+          {
+            "title": "Print placement",
+            "text": "On a light tote, place the lilac-supported violet mark above the plum name. Preserve the notch and clear space; add no price or shop reference."
+          }
+        ],
+        "id": "brand-page-35",
+        "layout": "applications"
+      },
+      {
+        "title": "Reading sleeves",
+        "summary": "Design study: adapt the wrapping format into a paper sleeve for a reading note. Use a white field, lilac band and compact lockup without suggesting book sales.",
+        "examples": [
+          {
+            "title": "Mi próxima lectura",
+            "text": "Título: ____________________\nAutor: ____________________"
+          },
+          {
+            "title": "Sleeve composition",
+            "text": "Keep writing lines clear of folds. Place Lista de lectura at the upper left and use a single vertical violet rule to echo the register."
+          }
+        ],
+        "id": "brand-page-36",
+        "layout": "applications"
+      },
+      {
+        "title": "Reading station",
+        "summary": "Design study: translate pickup wayfinding into an orientation card for a reading desk. Identify the activity without inventing a public venue, address or opening hours.",
+        "examples": [
+          {
+            "title": "Apunta tu próxima lectura",
+            "text": "Escribe el título y, si quieres, el autor."
+          },
+          {
+            "title": "Orientation rule",
+            "text": "Use a large plum heading on white with a violet bookmark at the left. Do not add collection counters, location pins or service promises."
+          }
+        ],
+        "id": "brand-page-37",
+        "layout": "applications"
+      },
+      {
+        "title": "Reading controls",
+        "summary": "Design study for /: keep visible field labels, explicit limits and a violet save action. Filters use 44 px minimum targets and a clear pressed state.",
+        "examples": [
+          {
+            "title": "Guardar libro",
+            "text": "Título: obligatorio, máximo 200 caracteres. Autor: opcional, máximo 160 caracteres."
+          },
+          {
+            "title": "Todos · Por leer · Leídos",
+            "text": "Use buttons with aria-pressed. Keep the chosen filter after saving; offer Ver por leer when it hides the newly added book."
+          },
+          {
+            "title": "Pending and invalid",
+            "text": "Keep invalid submission available so errors can be explained. Show Guardando… during a pending save; prevent repeated sends and keep linked errors in flow."
+          }
+        ],
+        "id": "brand-page-38",
+        "layout": "applications"
+      },
+      {
+        "title": "Save confirmation",
+        "summary": "Design study: replace a receipt with an inline, browser-specific confirmation. Show success only after verified persistence; keep the reader on the same screen.",
+        "examples": [
+          {
+            "title": "Libro guardado en este navegador",
+            "text": "El libro está en Por leer. Ver por leer."
+          },
+          {
+            "title": "Row confirmation",
+            "text": "Announce «Don Quijote de la Mancha: marcado como leído». Update its existing row without changing addition order; restore focus if the filter removes it."
+          },
+          {
+            "title": "Unconfirmed save",
+            "text": "Retain fields and confirmed records. Place Reintentar beside the affected operation; a retry must not create another copy of the same pending addition."
+          }
+        ],
+        "id": "brand-page-39",
+        "layout": "applications"
+      },
+      {
+        "title": "Reading card",
+        "summary": "Design study: adapt the loyalty-card format into a simple paper reading record. Use status words instead of points, stamps, tiers or membership claims.",
+        "examples": [
+          {
+            "title": "Mi lectura",
+            "text": "Título: ____________________\nEstado: Por leer / Leído"
+          },
+          {
+            "title": "Card structure",
+            "text": "Place a bookmark beside each status label and retain generous writing space. Do not imply that the paper card connects to browser storage."
+          }
+        ],
+        "id": "brand-page-40",
+        "layout": "applications"
+      },
+      {
+        "title": "Reading station sign",
+        "summary": "Design study: translate venue signage into a neutral reading-area sign. Prioritize the name, preserve logo clear space and omit invented location details.",
+        "examples": [
+          {
+            "title": "Lista de lectura",
+            "text": "Un ejemplo de Esteban"
+          },
+          {
+            "title": "Sign treatment",
+            "text": "Use white type on plum, with the canonical lilac-supported bookmark at the left. Include no opening hours, booking messages or directional claims."
+          }
+        ],
+        "id": "brand-page-41",
+        "layout": "applications"
+      },
+      {
+        "title": "Reading website",
+        "summary": "Design study for the sole route /: compact header, one storage note, form and continuous register. No landing page, database, accounts, deletion, commerce or remote services.",
+        "examples": [
+          {
+            "title": "Lista de lectura",
+            "text": "App ficticia de ejemplo. Los libros se guardan solo en este navegador; no se sincronizan y pueden perderse al borrar sus datos."
+          },
+          {
+            "title": "Screen hierarchy",
+            "text": "Place Un ejemplo de Esteban below the name. Use document title Lista de lectura — Esteban and Spanish language metadata. Keep filters above the white list."
+          },
+          {
+            "title": "Honest screen states",
+            "text": "Show Cargando tu lista… before resolving browser storage. Then show records or Tu próxima lectura empieza aquí; never treat a failed read as an empty list."
+          }
+        ],
+        "id": "brand-page-42",
+        "layout": "applications"
+      },
+      {
+        "title": "Favicon",
+        "summary": "Design study: derive the favicon, 192 px and 512 px PNG icons and apple-touch icon from the canonical geometry. These assets do not add interface routes.",
+        "examples": [
+          {
+            "title": "Lista de lectura — Esteban",
+            "text": "Lista de lectura"
+          },
+          {
+            "title": "Small-size expression",
+            "text": "Keep the violet bookmark centered on lilac in app/icon.svg and raster derivatives. Retain the complete notch and use no miniature lettering."
+          }
+        ],
+        "id": "brand-page-43",
+        "layout": "logo"
+      },
+      {
+        "title": "Stationery",
+        "summary": "Design study: use a reading-note sheet with the compact lockup at the upper left. Align text to a vertical rule and leave most of the white page open.",
+        "examples": [
+          {
+            "title": "Notas de lectura",
+            "text": "Título: ____________________\nAutor: ____________________\nNotas: ____________________"
+          },
+          {
+            "title": "Sheet hierarchy",
+            "text": "Use Source Sans 3 for every label. Keep the signature smaller than Lista de lectura and avoid fictional addresses, legal details or contact information."
+          }
+        ],
+        "id": "brand-page-44",
+        "layout": "applications"
+      },
+      {
+        "title": "Introduction cards",
+        "summary": "Design study: adapt a business card into a project introduction card. Pair the exact identity with a brief description, not an invented professional role or contact channel.",
+        "examples": [
+          {
+            "title": "Lista de lectura",
+            "text": "Un ejemplo de Esteban. Una app ficticia para recordar próximas lecturas y registrar las leídas."
+          },
+          {
+            "title": "Two-sided layout",
+            "text": "Use the supported mark and name on the lilac front. Put the short description in plum on the white reverse, without URLs, phone numbers or QR codes."
+          }
+        ],
+        "id": "brand-page-45",
+        "layout": "applications"
+      },
+      {
+        "title": "Reading recommendation card",
+        "summary": "Design study: reinterpret the gift-card format as a personal reading recommendation. Keep it non-monetary, with no balance, redemption code or purchase implication.",
+        "examples": [
+          {
+            "title": "Una lectura para ti",
+            "text": "Te recomiendo: ____________________\nPorque: ____________________"
+          },
+          {
+            "title": "Recommendation layout",
+            "text": "Place a small supported bookmark above the writing area. Use a lilac reverse with Lista de lectura and the exact Esteban signature."
+          }
+        ],
+        "id": "brand-page-46",
+        "layout": "applications"
+      },
+      {
+        "title": "Reading sleeve seal",
+        "summary": "Design study: use a small identity label to close the paper reading sleeve. Preserve the supported bookmark rather than inventing a certification badge.",
+        "examples": [
+          {
+            "title": "Lista de lectura",
+            "text": "Un ejemplo de Esteban"
+          },
+          {
+            "title": "Seal treatment",
+            "text": "Use the canonical square symbol as the label. Keep the name on the sleeve when space is tight; add no quality claims, prices or security language."
+          }
+        ],
+        "id": "brand-page-47",
+        "layout": "applications"
+      },
+      {
+        "title": "Reader assistance",
+        "summary": "Design study: keep recovery beside the affected form, filter or book. Preserve confirmed records and inputs; explain blocked browser storage without implying remote backup.",
+        "examples": [
+          {
+            "title": "No se pudo confirmar el guardado",
+            "text": "Tus campos se conservan. Reintentar."
+          },
+          {
+            "title": "Este libro cambió en otra pestaña",
+            "text": "Don Quijote de la Mancha. Estado local: Por leer. Estado almacenado: Leído. Conservar estado almacenado / Aplicar mi cambio."
+          },
+          {
+            "title": "No podemos guardar en este contexto",
+            "text": "Block changes when storage or Web Locks is unavailable, including in an iframe. Offer Reintentar; for unreadable or incompatible data, offer Volver a leer."
+          }
+        ],
+        "id": "brand-page-48",
+        "layout": "applications"
+      },
+      {
+        "title": "Thank you",
+        "summary": "This guide presents an original identity proposed for this project, with examples of its visual and editorial use.",
+        "examples": [
+          {
+            "title": "Lista de lectura",
+            "text": "Un ejemplo de Esteban"
+          },
+          {
+            "title": "Source list",
+            "text": "Esteban's supplied project plan, palette and identity brief; supplied Source Sans 3 files in 400, 500, 600 and 700. No external public identity sources."
+          },
+          {
+            "title": "Colophon",
+            "text": "Original bookmark proposal for Lista de lectura. Preserve the exact name, supplied colors and chosen typography when extending these design studies."
+          }
+        ],
+        "id": "brand-page-49",
+        "layout": "cover"
+      }
+    ]
+  }
+}

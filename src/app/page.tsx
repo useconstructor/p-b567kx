@@ -1,40 +1,24 @@
-import { ThemeToggle } from "@/components/theme-toggle";
-import { Sparkles } from "lucide-react";
-import { ButtonsSection } from "@/components/demo/buttons-section";
-import { FormsSection } from "@/components/demo/forms-section";
-import { OverlaysSection } from "@/components/demo/overlays-section";
-import { FeedbackSection } from "@/components/demo/feedback-section";
-import { DataSection } from "@/components/demo/data-section";
-import { NavigationSection } from "@/components/demo/navigation-section";
-import { ItemsSection } from "@/components/demo/items-section";
+import Image from "next/image";
+import branding from "../../branding.json";
+import ReadingList from "@/components/reading-list";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-background text-foreground">
-      <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur-sm px-6 py-3 flex items-center justify-between max-w-6xl mx-auto w-full">
-        <div className="flex items-center gap-2">
-          <Sparkles className="h-4 w-4 text-primary" />
-          <span className="font-semibold">shadcn/ui template</span>
+    <main className="mx-auto w-full max-w-[1152px] px-4 pt-4 pb-8 sm:pt-8 lg:pt-12">
+      <header className="mb-6 lg:mb-8">
+        <div className="flex items-center gap-2 sm:gap-3">
+          <Image data-brand-logo="" src={branding.logoImageUrl || "/brand-mark.svg"} alt="" width={48} height={48}
+            unoptimized priority className="size-10 shrink-0 object-contain sm:size-12" />
+          <div>
+            <h1 className="font-heading text-[28px] leading-8 font-bold tracking-[-0.02em] sm:text-4xl sm:leading-10">{branding.logoText}</h1>
+            <p className="mt-1 text-sm leading-5 sm:text-base sm:leading-6">Un ejemplo de Esteban</p>
+          </div>
         </div>
-        <ThemeToggle />
+        <p className="mt-3 max-w-[800px] text-sm leading-5 lg:mt-4">
+          App ficticia de ejemplo. Los libros se guardan solo en este navegador; no se sincronizan y pueden perderse al borrar sus datos.
+        </p>
       </header>
-
-      <div className="max-w-6xl mx-auto px-6 py-10 space-y-16">
-        <div className="text-center space-y-2">
-          <h1 className="text-3xl font-bold tracking-tight">Componentes demo</h1>
-          <p className="text-muted-foreground">
-            Verificación visual de todos los componentes instalados.
-          </p>
-        </div>
-
-        <ButtonsSection />
-        <FormsSection />
-        <FeedbackSection />
-        <OverlaysSection />
-        <NavigationSection />
-        <DataSection />
-        <ItemsSection />
-      </div>
+      <ReadingList />
     </main>
   );
 }
